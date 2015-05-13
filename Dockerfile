@@ -1,4 +1,5 @@
 FROM ubuntu:trusty
+MAINTAINER Durga Prasad R <durga0415@gmail.com>
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive
